@@ -1,0 +1,600 @@
+Pointers
+------------
+0x7f3050f066dc
+0x7f3050724ba9
+0x7f305174c619
+0x7f305179d5e3
+0x7f3051d012f1
+Raw
+------------
+/home/scitator/Programs/Anaconda2/envs/dato-env/lib/python2.7/site-packages/graphlab/libunity_shared.so(_Z18__print_back_tracev+0x8c) [0x7f3050f066dc]
+/home/scitator/Programs/Anaconda2/envs/dato-env/lib/python2.7/site-packages/graphlab/libunity_shared.so(+0x359ba9) [0x7f3050724ba9]
+/home/scitator/Programs/Anaconda2/envs/dato-env/lib/python2.7/site-packages/graphlab/libunity_shared.so(+0x1381619) [0x7f305174c619]
+/home/scitator/Programs/Anaconda2/envs/dato-env/lib/python2.7/site-packages/graphlab/libunity_shared.so(+0x13d25e3) [0x7f305179d5e3]
+/home/scitator/Programs/Anaconda2/envs/dato-env/lib/python2.7/site-packages/graphlab/libunity_shared.so(+0x19362f1) [0x7f3051d012f1]
+
+Demangled
+------------
+__print_back_trace()
+/home/scitator/Programs/Anaconda2/envs/dato-env/lib/python2.7/site-packages/graphlab/libunity_shared.so(+0x359ba9)
+/home/scitator/Programs/Anaconda2/envs/dato-env/lib/python2.7/site-packages/graphlab/libunity_shared.so(+0x1381619)
+/home/scitator/Programs/Anaconda2/envs/dato-env/lib/python2.7/site-packages/graphlab/libunity_shared.so(+0x13d25e3)
+/home/scitator/Programs/Anaconda2/envs/dato-env/lib/python2.7/site-packages/graphlab/libunity_shared.so(+0x19362f1)
+-------------------------------------------------------
+
+
+Pointers
+------------
+0x7f3050f066dc
+0x7f3050724ba9
+0x7f305174c619
+0x7f305179d5e3
+0x7f3051d012f1
+Raw
+------------
+/home/scitator/Programs/Anaconda2/envs/dato-env/lib/python2.7/site-packages/graphlab/libunity_shared.so(_Z18__print_back_tracev+0x8c) [0x7f3050f066dc]
+/home/scitator/Programs/Anaconda2/envs/dato-env/lib/python2.7/site-packages/graphlab/libunity_shared.so(+0x359ba9) [0x7f3050724ba9]
+/home/scitator/Programs/Anaconda2/envs/dato-env/lib/python2.7/site-packages/graphlab/libunity_shared.so(+0x1381619) [0x7f305174c619]
+/home/scitator/Programs/Anaconda2/envs/dato-env/lib/python2.7/site-packages/graphlab/libunity_shared.so(+0x13d25e3) [0x7f305179d5e3]
+/home/scitator/Programs/Anaconda2/envs/dato-env/lib/python2.7/site-packages/graphlab/libunity_shared.so(+0x19362f1) [0x7f3051d012f1]
+
+Demangled
+------------
+__print_back_trace()
+/home/scitator/Programs/Anaconda2/envs/dato-env/lib/python2.7/site-packages/graphlab/libunity_shared.so(+0x359ba9)
+/home/scitator/Programs/Anaconda2/envs/dato-env/lib/python2.7/site-packages/graphlab/libunity_shared.so(+0x1381619)
+/home/scitator/Programs/Anaconda2/envs/dato-env/lib/python2.7/site-packages/graphlab/libunity_shared.so(+0x13d25e3)
+/home/scitator/Programs/Anaconda2/envs/dato-env/lib/python2.7/site-packages/graphlab/libunity_shared.so(+0x19362f1)
+-------------------------------------------------------
+
+
+Pointers
+------------
+0x7f3050f066dc
+0x7f3050724ba9
+0x7f305174c619
+0x7f305179d5e3
+0x7f3051d012f1
+Raw
+------------
+/home/scitator/Programs/Anaconda2/envs/dato-env/lib/python2.7/site-packages/graphlab/libunity_shared.so(_Z18__print_back_tracev+0x8c) [0x7f3050f066dc]
+/home/scitator/Programs/Anaconda2/envs/dato-env/lib/python2.7/site-packages/graphlab/libunity_shared.so(+0x359ba9) [0x7f3050724ba9]
+/home/scitator/Programs/Anaconda2/envs/dato-env/lib/python2.7/site-packages/graphlab/libunity_shared.so(+0x1381619) [0x7f305174c619]
+/home/scitator/Programs/Anaconda2/envs/dato-env/lib/python2.7/site-packages/graphlab/libunity_shared.so(+0x13d25e3) [0x7f305179d5e3]
+/home/scitator/Programs/Anaconda2/envs/dato-env/lib/python2.7/site-packages/graphlab/libunity_shared.so(+0x19362f1) [0x7f3051d012f1]
+
+Demangled
+------------
+__print_back_trace()
+/home/scitator/Programs/Anaconda2/envs/dato-env/lib/python2.7/site-packages/graphlab/libunity_shared.so(+0x359ba9)
+/home/scitator/Programs/Anaconda2/envs/dato-env/lib/python2.7/site-packages/graphlab/libunity_shared.so(+0x1381619)
+/home/scitator/Programs/Anaconda2/envs/dato-env/lib/python2.7/site-packages/graphlab/libunity_shared.so(+0x13d25e3)
+/home/scitator/Programs/Anaconda2/envs/dato-env/lib/python2.7/site-packages/graphlab/libunity_shared.so(+0x19362f1)
+-------------------------------------------------------
+
+
+Pointers
+------------
+0x7f3050f066dc
+0x7f3050724ba9
+0x7f305174c619
+0x7f305179d5e3
+0x7f3051d012f1
+Raw
+------------
+/home/scitator/Programs/Anaconda2/envs/dato-env/lib/python2.7/site-packages/graphlab/libunity_shared.so(_Z18__print_back_tracev+0x8c) [0x7f3050f066dc]
+/home/scitator/Programs/Anaconda2/envs/dato-env/lib/python2.7/site-packages/graphlab/libunity_shared.so(+0x359ba9) [0x7f3050724ba9]
+/home/scitator/Programs/Anaconda2/envs/dato-env/lib/python2.7/site-packages/graphlab/libunity_shared.so(+0x1381619) [0x7f305174c619]
+/home/scitator/Programs/Anaconda2/envs/dato-env/lib/python2.7/site-packages/graphlab/libunity_shared.so(+0x13d25e3) [0x7f305179d5e3]
+/home/scitator/Programs/Anaconda2/envs/dato-env/lib/python2.7/site-packages/graphlab/libunity_shared.so(+0x19362f1) [0x7f3051d012f1]
+
+Demangled
+------------
+__print_back_trace()
+/home/scitator/Programs/Anaconda2/envs/dato-env/lib/python2.7/site-packages/graphlab/libunity_shared.so(+0x359ba9)
+/home/scitator/Programs/Anaconda2/envs/dato-env/lib/python2.7/site-packages/graphlab/libunity_shared.so(+0x1381619)
+/home/scitator/Programs/Anaconda2/envs/dato-env/lib/python2.7/site-packages/graphlab/libunity_shared.so(+0x13d25e3)
+/home/scitator/Programs/Anaconda2/envs/dato-env/lib/python2.7/site-packages/graphlab/libunity_shared.so(+0x19362f1)
+-------------------------------------------------------
+
+
+Pointers
+------------
+0x7f3050f066dc
+0x7f3050724ba9
+0x7f305174c619
+0x7f305179d5e3
+0x7f3051d012f1
+Raw
+------------
+/home/scitator/Programs/Anaconda2/envs/dato-env/lib/python2.7/site-packages/graphlab/libunity_shared.so(_Z18__print_back_tracev+0x8c) [0x7f3050f066dc]
+/home/scitator/Programs/Anaconda2/envs/dato-env/lib/python2.7/site-packages/graphlab/libunity_shared.so(+0x359ba9) [0x7f3050724ba9]
+/home/scitator/Programs/Anaconda2/envs/dato-env/lib/python2.7/site-packages/graphlab/libunity_shared.so(+0x1381619) [0x7f305174c619]
+/home/scitator/Programs/Anaconda2/envs/dato-env/lib/python2.7/site-packages/graphlab/libunity_shared.so(+0x13d25e3) [0x7f305179d5e3]
+/home/scitator/Programs/Anaconda2/envs/dato-env/lib/python2.7/site-packages/graphlab/libunity_shared.so(+0x19362f1) [0x7f3051d012f1]
+
+Demangled
+------------
+__print_back_trace()
+/home/scitator/Programs/Anaconda2/envs/dato-env/lib/python2.7/site-packages/graphlab/libunity_shared.so(+0x359ba9)
+/home/scitator/Programs/Anaconda2/envs/dato-env/lib/python2.7/site-packages/graphlab/libunity_shared.so(+0x1381619)
+/home/scitator/Programs/Anaconda2/envs/dato-env/lib/python2.7/site-packages/graphlab/libunity_shared.so(+0x13d25e3)
+/home/scitator/Programs/Anaconda2/envs/dato-env/lib/python2.7/site-packages/graphlab/libunity_shared.so(+0x19362f1)
+-------------------------------------------------------
+
+
+Pointers
+------------
+0x7f3050f066dc
+0x7f3050724ba9
+0x7f305174c619
+0x7f305179d5e3
+0x7f3051d012f1
+Raw
+------------
+/home/scitator/Programs/Anaconda2/envs/dato-env/lib/python2.7/site-packages/graphlab/libunity_shared.so(_Z18__print_back_tracev+0x8c) [0x7f3050f066dc]
+/home/scitator/Programs/Anaconda2/envs/dato-env/lib/python2.7/site-packages/graphlab/libunity_shared.so(+0x359ba9) [0x7f3050724ba9]
+/home/scitator/Programs/Anaconda2/envs/dato-env/lib/python2.7/site-packages/graphlab/libunity_shared.so(+0x1381619) [0x7f305174c619]
+/home/scitator/Programs/Anaconda2/envs/dato-env/lib/python2.7/site-packages/graphlab/libunity_shared.so(+0x13d25e3) [0x7f305179d5e3]
+/home/scitator/Programs/Anaconda2/envs/dato-env/lib/python2.7/site-packages/graphlab/libunity_shared.so(+0x19362f1) [0x7f3051d012f1]
+
+Demangled
+------------
+__print_back_trace()
+/home/scitator/Programs/Anaconda2/envs/dato-env/lib/python2.7/site-packages/graphlab/libunity_shared.so(+0x359ba9)
+/home/scitator/Programs/Anaconda2/envs/dato-env/lib/python2.7/site-packages/graphlab/libunity_shared.so(+0x1381619)
+/home/scitator/Programs/Anaconda2/envs/dato-env/lib/python2.7/site-packages/graphlab/libunity_shared.so(+0x13d25e3)
+/home/scitator/Programs/Anaconda2/envs/dato-env/lib/python2.7/site-packages/graphlab/libunity_shared.so(+0x19362f1)
+-------------------------------------------------------
+
+
+Pointers
+------------
+0x7f3050f066dc
+0x7f3050724ba9
+0x7f305174c619
+0x7f305179d5e3
+0x7f3051d012f1
+Raw
+------------
+/home/scitator/Programs/Anaconda2/envs/dato-env/lib/python2.7/site-packages/graphlab/libunity_shared.so(_Z18__print_back_tracev+0x8c) [0x7f3050f066dc]
+/home/scitator/Programs/Anaconda2/envs/dato-env/lib/python2.7/site-packages/graphlab/libunity_shared.so(+0x359ba9) [0x7f3050724ba9]
+/home/scitator/Programs/Anaconda2/envs/dato-env/lib/python2.7/site-packages/graphlab/libunity_shared.so(+0x1381619) [0x7f305174c619]
+/home/scitator/Programs/Anaconda2/envs/dato-env/lib/python2.7/site-packages/graphlab/libunity_shared.so(+0x13d25e3) [0x7f305179d5e3]
+/home/scitator/Programs/Anaconda2/envs/dato-env/lib/python2.7/site-packages/graphlab/libunity_shared.so(+0x19362f1) [0x7f3051d012f1]
+
+Demangled
+------------
+__print_back_trace()
+/home/scitator/Programs/Anaconda2/envs/dato-env/lib/python2.7/site-packages/graphlab/libunity_shared.so(+0x359ba9)
+/home/scitator/Programs/Anaconda2/envs/dato-env/lib/python2.7/site-packages/graphlab/libunity_shared.so(+0x1381619)
+/home/scitator/Programs/Anaconda2/envs/dato-env/lib/python2.7/site-packages/graphlab/libunity_shared.so(+0x13d25e3)
+/home/scitator/Programs/Anaconda2/envs/dato-env/lib/python2.7/site-packages/graphlab/libunity_shared.so(+0x19362f1)
+-------------------------------------------------------
+
+
+Pointers
+------------
+0x7f3050f066dc
+0x7f3050724ba9
+0x7f305174c619
+0x7f305179d5e3
+0x7f3051d012f1
+Raw
+------------
+/home/scitator/Programs/Anaconda2/envs/dato-env/lib/python2.7/site-packages/graphlab/libunity_shared.so(_Z18__print_back_tracev+0x8c) [0x7f3050f066dc]
+/home/scitator/Programs/Anaconda2/envs/dato-env/lib/python2.7/site-packages/graphlab/libunity_shared.so(+0x359ba9) [0x7f3050724ba9]
+/home/scitator/Programs/Anaconda2/envs/dato-env/lib/python2.7/site-packages/graphlab/libunity_shared.so(+0x1381619) [0x7f305174c619]
+/home/scitator/Programs/Anaconda2/envs/dato-env/lib/python2.7/site-packages/graphlab/libunity_shared.so(+0x13d25e3) [0x7f305179d5e3]
+/home/scitator/Programs/Anaconda2/envs/dato-env/lib/python2.7/site-packages/graphlab/libunity_shared.so(+0x19362f1) [0x7f3051d012f1]
+
+Demangled
+------------
+__print_back_trace()
+/home/scitator/Programs/Anaconda2/envs/dato-env/lib/python2.7/site-packages/graphlab/libunity_shared.so(+0x359ba9)
+/home/scitator/Programs/Anaconda2/envs/dato-env/lib/python2.7/site-packages/graphlab/libunity_shared.so(+0x1381619)
+/home/scitator/Programs/Anaconda2/envs/dato-env/lib/python2.7/site-packages/graphlab/libunity_shared.so(+0x13d25e3)
+/home/scitator/Programs/Anaconda2/envs/dato-env/lib/python2.7/site-packages/graphlab/libunity_shared.so(+0x19362f1)
+-------------------------------------------------------
+
+
+Pointers
+------------
+0x7f3050f066dc
+0x7f3050724ba9
+0x7f305174c619
+0x7f305179d5e3
+0x7f3051d012f1
+Raw
+------------
+/home/scitator/Programs/Anaconda2/envs/dato-env/lib/python2.7/site-packages/graphlab/libunity_shared.so(_Z18__print_back_tracev+0x8c) [0x7f3050f066dc]
+/home/scitator/Programs/Anaconda2/envs/dato-env/lib/python2.7/site-packages/graphlab/libunity_shared.so(+0x359ba9) [0x7f3050724ba9]
+/home/scitator/Programs/Anaconda2/envs/dato-env/lib/python2.7/site-packages/graphlab/libunity_shared.so(+0x1381619) [0x7f305174c619]
+/home/scitator/Programs/Anaconda2/envs/dato-env/lib/python2.7/site-packages/graphlab/libunity_shared.so(+0x13d25e3) [0x7f305179d5e3]
+/home/scitator/Programs/Anaconda2/envs/dato-env/lib/python2.7/site-packages/graphlab/libunity_shared.so(+0x19362f1) [0x7f3051d012f1]
+
+Demangled
+------------
+__print_back_trace()
+/home/scitator/Programs/Anaconda2/envs/dato-env/lib/python2.7/site-packages/graphlab/libunity_shared.so(+0x359ba9)
+/home/scitator/Programs/Anaconda2/envs/dato-env/lib/python2.7/site-packages/graphlab/libunity_shared.so(+0x1381619)
+/home/scitator/Programs/Anaconda2/envs/dato-env/lib/python2.7/site-packages/graphlab/libunity_shared.so(+0x13d25e3)
+/home/scitator/Programs/Anaconda2/envs/dato-env/lib/python2.7/site-packages/graphlab/libunity_shared.so(+0x19362f1)
+-------------------------------------------------------
+
+
+Pointers
+------------
+0x7f3050f066dc
+0x7f3050724ba9
+0x7f305174c619
+0x7f305179d5e3
+0x7f3051d012f1
+Raw
+------------
+/home/scitator/Programs/Anaconda2/envs/dato-env/lib/python2.7/site-packages/graphlab/libunity_shared.so(_Z18__print_back_tracev+0x8c) [0x7f3050f066dc]
+/home/scitator/Programs/Anaconda2/envs/dato-env/lib/python2.7/site-packages/graphlab/libunity_shared.so(+0x359ba9) [0x7f3050724ba9]
+/home/scitator/Programs/Anaconda2/envs/dato-env/lib/python2.7/site-packages/graphlab/libunity_shared.so(+0x1381619) [0x7f305174c619]
+/home/scitator/Programs/Anaconda2/envs/dato-env/lib/python2.7/site-packages/graphlab/libunity_shared.so(+0x13d25e3) [0x7f305179d5e3]
+/home/scitator/Programs/Anaconda2/envs/dato-env/lib/python2.7/site-packages/graphlab/libunity_shared.so(+0x19362f1) [0x7f3051d012f1]
+
+Demangled
+------------
+__print_back_trace()
+/home/scitator/Programs/Anaconda2/envs/dato-env/lib/python2.7/site-packages/graphlab/libunity_shared.so(+0x359ba9)
+/home/scitator/Programs/Anaconda2/envs/dato-env/lib/python2.7/site-packages/graphlab/libunity_shared.so(+0x1381619)
+/home/scitator/Programs/Anaconda2/envs/dato-env/lib/python2.7/site-packages/graphlab/libunity_shared.so(+0x13d25e3)
+/home/scitator/Programs/Anaconda2/envs/dato-env/lib/python2.7/site-packages/graphlab/libunity_shared.so(+0x19362f1)
+-------------------------------------------------------
+
+
+Pointers
+------------
+0x7f3050f066dc
+0x7f3050724ba9
+0x7f305174c619
+0x7f305179d5e3
+0x7f3051d012f1
+Raw
+------------
+/home/scitator/Programs/Anaconda2/envs/dato-env/lib/python2.7/site-packages/graphlab/libunity_shared.so(_Z18__print_back_tracev+0x8c) [0x7f3050f066dc]
+/home/scitator/Programs/Anaconda2/envs/dato-env/lib/python2.7/site-packages/graphlab/libunity_shared.so(+0x359ba9) [0x7f3050724ba9]
+/home/scitator/Programs/Anaconda2/envs/dato-env/lib/python2.7/site-packages/graphlab/libunity_shared.so(+0x1381619) [0x7f305174c619]
+/home/scitator/Programs/Anaconda2/envs/dato-env/lib/python2.7/site-packages/graphlab/libunity_shared.so(+0x13d25e3) [0x7f305179d5e3]
+/home/scitator/Programs/Anaconda2/envs/dato-env/lib/python2.7/site-packages/graphlab/libunity_shared.so(+0x19362f1) [0x7f3051d012f1]
+
+Demangled
+------------
+__print_back_trace()
+/home/scitator/Programs/Anaconda2/envs/dato-env/lib/python2.7/site-packages/graphlab/libunity_shared.so(+0x359ba9)
+/home/scitator/Programs/Anaconda2/envs/dato-env/lib/python2.7/site-packages/graphlab/libunity_shared.so(+0x1381619)
+/home/scitator/Programs/Anaconda2/envs/dato-env/lib/python2.7/site-packages/graphlab/libunity_shared.so(+0x13d25e3)
+/home/scitator/Programs/Anaconda2/envs/dato-env/lib/python2.7/site-packages/graphlab/libunity_shared.so(+0x19362f1)
+-------------------------------------------------------
+
+
+Pointers
+------------
+0x7f3050f066dc
+0x7f3050724ba9
+0x7f305174c619
+0x7f305179d5e3
+0x7f3051d012f1
+Raw
+------------
+/home/scitator/Programs/Anaconda2/envs/dato-env/lib/python2.7/site-packages/graphlab/libunity_shared.so(_Z18__print_back_tracev+0x8c) [0x7f3050f066dc]
+/home/scitator/Programs/Anaconda2/envs/dato-env/lib/python2.7/site-packages/graphlab/libunity_shared.so(+0x359ba9) [0x7f3050724ba9]
+/home/scitator/Programs/Anaconda2/envs/dato-env/lib/python2.7/site-packages/graphlab/libunity_shared.so(+0x1381619) [0x7f305174c619]
+/home/scitator/Programs/Anaconda2/envs/dato-env/lib/python2.7/site-packages/graphlab/libunity_shared.so(+0x13d25e3) [0x7f305179d5e3]
+/home/scitator/Programs/Anaconda2/envs/dato-env/lib/python2.7/site-packages/graphlab/libunity_shared.so(+0x19362f1) [0x7f3051d012f1]
+
+Demangled
+------------
+__print_back_trace()
+/home/scitator/Programs/Anaconda2/envs/dato-env/lib/python2.7/site-packages/graphlab/libunity_shared.so(+0x359ba9)
+/home/scitator/Programs/Anaconda2/envs/dato-env/lib/python2.7/site-packages/graphlab/libunity_shared.so(+0x1381619)
+/home/scitator/Programs/Anaconda2/envs/dato-env/lib/python2.7/site-packages/graphlab/libunity_shared.so(+0x13d25e3)
+/home/scitator/Programs/Anaconda2/envs/dato-env/lib/python2.7/site-packages/graphlab/libunity_shared.so(+0x19362f1)
+-------------------------------------------------------
+
+
+Pointers
+------------
+0x7f3050f066dc
+0x7f3050724ba9
+0x7f305174c619
+0x7f305179d5e3
+0x7f3051d012f1
+Raw
+------------
+/home/scitator/Programs/Anaconda2/envs/dato-env/lib/python2.7/site-packages/graphlab/libunity_shared.so(_Z18__print_back_tracev+0x8c) [0x7f3050f066dc]
+/home/scitator/Programs/Anaconda2/envs/dato-env/lib/python2.7/site-packages/graphlab/libunity_shared.so(+0x359ba9) [0x7f3050724ba9]
+/home/scitator/Programs/Anaconda2/envs/dato-env/lib/python2.7/site-packages/graphlab/libunity_shared.so(+0x1381619) [0x7f305174c619]
+/home/scitator/Programs/Anaconda2/envs/dato-env/lib/python2.7/site-packages/graphlab/libunity_shared.so(+0x13d25e3) [0x7f305179d5e3]
+/home/scitator/Programs/Anaconda2/envs/dato-env/lib/python2.7/site-packages/graphlab/libunity_shared.so(+0x19362f1) [0x7f3051d012f1]
+
+Demangled
+------------
+__print_back_trace()
+/home/scitator/Programs/Anaconda2/envs/dato-env/lib/python2.7/site-packages/graphlab/libunity_shared.so(+0x359ba9)
+/home/scitator/Programs/Anaconda2/envs/dato-env/lib/python2.7/site-packages/graphlab/libunity_shared.so(+0x1381619)
+/home/scitator/Programs/Anaconda2/envs/dato-env/lib/python2.7/site-packages/graphlab/libunity_shared.so(+0x13d25e3)
+/home/scitator/Programs/Anaconda2/envs/dato-env/lib/python2.7/site-packages/graphlab/libunity_shared.so(+0x19362f1)
+-------------------------------------------------------
+
+
+Pointers
+------------
+0x7f3050f066dc
+0x7f3050724ba9
+0x7f305174c619
+0x7f305179d5e3
+0x7f3051d012f1
+Raw
+------------
+/home/scitator/Programs/Anaconda2/envs/dato-env/lib/python2.7/site-packages/graphlab/libunity_shared.so(_Z18__print_back_tracev+0x8c) [0x7f3050f066dc]
+/home/scitator/Programs/Anaconda2/envs/dato-env/lib/python2.7/site-packages/graphlab/libunity_shared.so(+0x359ba9) [0x7f3050724ba9]
+/home/scitator/Programs/Anaconda2/envs/dato-env/lib/python2.7/site-packages/graphlab/libunity_shared.so(+0x1381619) [0x7f305174c619]
+/home/scitator/Programs/Anaconda2/envs/dato-env/lib/python2.7/site-packages/graphlab/libunity_shared.so(+0x13d25e3) [0x7f305179d5e3]
+/home/scitator/Programs/Anaconda2/envs/dato-env/lib/python2.7/site-packages/graphlab/libunity_shared.so(+0x19362f1) [0x7f3051d012f1]
+
+Demangled
+------------
+__print_back_trace()
+/home/scitator/Programs/Anaconda2/envs/dato-env/lib/python2.7/site-packages/graphlab/libunity_shared.so(+0x359ba9)
+/home/scitator/Programs/Anaconda2/envs/dato-env/lib/python2.7/site-packages/graphlab/libunity_shared.so(+0x1381619)
+/home/scitator/Programs/Anaconda2/envs/dato-env/lib/python2.7/site-packages/graphlab/libunity_shared.so(+0x13d25e3)
+/home/scitator/Programs/Anaconda2/envs/dato-env/lib/python2.7/site-packages/graphlab/libunity_shared.so(+0x19362f1)
+-------------------------------------------------------
+
+
+Pointers
+------------
+0x7f3050f066dc
+0x7f3050724ba9
+0x7f305174c619
+0x7f305179d5e3
+0x7f3051d012f1
+Raw
+------------
+/home/scitator/Programs/Anaconda2/envs/dato-env/lib/python2.7/site-packages/graphlab/libunity_shared.so(_Z18__print_back_tracev+0x8c) [0x7f3050f066dc]
+/home/scitator/Programs/Anaconda2/envs/dato-env/lib/python2.7/site-packages/graphlab/libunity_shared.so(+0x359ba9) [0x7f3050724ba9]
+/home/scitator/Programs/Anaconda2/envs/dato-env/lib/python2.7/site-packages/graphlab/libunity_shared.so(+0x1381619) [0x7f305174c619]
+/home/scitator/Programs/Anaconda2/envs/dato-env/lib/python2.7/site-packages/graphlab/libunity_shared.so(+0x13d25e3) [0x7f305179d5e3]
+/home/scitator/Programs/Anaconda2/envs/dato-env/lib/python2.7/site-packages/graphlab/libunity_shared.so(+0x19362f1) [0x7f3051d012f1]
+
+Demangled
+------------
+__print_back_trace()
+/home/scitator/Programs/Anaconda2/envs/dato-env/lib/python2.7/site-packages/graphlab/libunity_shared.so(+0x359ba9)
+/home/scitator/Programs/Anaconda2/envs/dato-env/lib/python2.7/site-packages/graphlab/libunity_shared.so(+0x1381619)
+/home/scitator/Programs/Anaconda2/envs/dato-env/lib/python2.7/site-packages/graphlab/libunity_shared.so(+0x13d25e3)
+/home/scitator/Programs/Anaconda2/envs/dato-env/lib/python2.7/site-packages/graphlab/libunity_shared.so(+0x19362f1)
+-------------------------------------------------------
+
+
+Pointers
+------------
+0x7f3050f066dc
+0x7f3050724ba9
+0x7f305174c619
+0x7f305179d5e3
+0x7f3051d012f1
+Raw
+------------
+/home/scitator/Programs/Anaconda2/envs/dato-env/lib/python2.7/site-packages/graphlab/libunity_shared.so(_Z18__print_back_tracev+0x8c) [0x7f3050f066dc]
+/home/scitator/Programs/Anaconda2/envs/dato-env/lib/python2.7/site-packages/graphlab/libunity_shared.so(+0x359ba9) [0x7f3050724ba9]
+/home/scitator/Programs/Anaconda2/envs/dato-env/lib/python2.7/site-packages/graphlab/libunity_shared.so(+0x1381619) [0x7f305174c619]
+/home/scitator/Programs/Anaconda2/envs/dato-env/lib/python2.7/site-packages/graphlab/libunity_shared.so(+0x13d25e3) [0x7f305179d5e3]
+/home/scitator/Programs/Anaconda2/envs/dato-env/lib/python2.7/site-packages/graphlab/libunity_shared.so(+0x19362f1) [0x7f3051d012f1]
+
+Demangled
+------------
+__print_back_trace()
+/home/scitator/Programs/Anaconda2/envs/dato-env/lib/python2.7/site-packages/graphlab/libunity_shared.so(+0x359ba9)
+/home/scitator/Programs/Anaconda2/envs/dato-env/lib/python2.7/site-packages/graphlab/libunity_shared.so(+0x1381619)
+/home/scitator/Programs/Anaconda2/envs/dato-env/lib/python2.7/site-packages/graphlab/libunity_shared.so(+0x13d25e3)
+/home/scitator/Programs/Anaconda2/envs/dato-env/lib/python2.7/site-packages/graphlab/libunity_shared.so(+0x19362f1)
+-------------------------------------------------------
+
+
+Pointers
+------------
+0x7f3050f066dc
+0x7f3050724ba9
+0x7f305174c619
+0x7f305179d5e3
+0x7f3051d012f1
+Raw
+------------
+/home/scitator/Programs/Anaconda2/envs/dato-env/lib/python2.7/site-packages/graphlab/libunity_shared.so(_Z18__print_back_tracev+0x8c) [0x7f3050f066dc]
+/home/scitator/Programs/Anaconda2/envs/dato-env/lib/python2.7/site-packages/graphlab/libunity_shared.so(+0x359ba9) [0x7f3050724ba9]
+/home/scitator/Programs/Anaconda2/envs/dato-env/lib/python2.7/site-packages/graphlab/libunity_shared.so(+0x1381619) [0x7f305174c619]
+/home/scitator/Programs/Anaconda2/envs/dato-env/lib/python2.7/site-packages/graphlab/libunity_shared.so(+0x13d25e3) [0x7f305179d5e3]
+/home/scitator/Programs/Anaconda2/envs/dato-env/lib/python2.7/site-packages/graphlab/libunity_shared.so(+0x19362f1) [0x7f3051d012f1]
+
+Demangled
+------------
+__print_back_trace()
+/home/scitator/Programs/Anaconda2/envs/dato-env/lib/python2.7/site-packages/graphlab/libunity_shared.so(+0x359ba9)
+/home/scitator/Programs/Anaconda2/envs/dato-env/lib/python2.7/site-packages/graphlab/libunity_shared.so(+0x1381619)
+/home/scitator/Programs/Anaconda2/envs/dato-env/lib/python2.7/site-packages/graphlab/libunity_shared.so(+0x13d25e3)
+/home/scitator/Programs/Anaconda2/envs/dato-env/lib/python2.7/site-packages/graphlab/libunity_shared.so(+0x19362f1)
+-------------------------------------------------------
+
+
+Pointers
+------------
+0x7f3050f066dc
+0x7f3050724ba9
+0x7f305174c619
+0x7f305179d5e3
+0x7f3051d012f1
+Raw
+------------
+/home/scitator/Programs/Anaconda2/envs/dato-env/lib/python2.7/site-packages/graphlab/libunity_shared.so(_Z18__print_back_tracev+0x8c) [0x7f3050f066dc]
+/home/scitator/Programs/Anaconda2/envs/dato-env/lib/python2.7/site-packages/graphlab/libunity_shared.so(+0x359ba9) [0x7f3050724ba9]
+/home/scitator/Programs/Anaconda2/envs/dato-env/lib/python2.7/site-packages/graphlab/libunity_shared.so(+0x1381619) [0x7f305174c619]
+/home/scitator/Programs/Anaconda2/envs/dato-env/lib/python2.7/site-packages/graphlab/libunity_shared.so(+0x13d25e3) [0x7f305179d5e3]
+/home/scitator/Programs/Anaconda2/envs/dato-env/lib/python2.7/site-packages/graphlab/libunity_shared.so(+0x19362f1) [0x7f3051d012f1]
+
+Demangled
+------------
+__print_back_trace()
+/home/scitator/Programs/Anaconda2/envs/dato-env/lib/python2.7/site-packages/graphlab/libunity_shared.so(+0x359ba9)
+/home/scitator/Programs/Anaconda2/envs/dato-env/lib/python2.7/site-packages/graphlab/libunity_shared.so(+0x1381619)
+/home/scitator/Programs/Anaconda2/envs/dato-env/lib/python2.7/site-packages/graphlab/libunity_shared.so(+0x13d25e3)
+/home/scitator/Programs/Anaconda2/envs/dato-env/lib/python2.7/site-packages/graphlab/libunity_shared.so(+0x19362f1)
+-------------------------------------------------------
+
+
+Pointers
+------------
+0x7f3050f066dc
+0x7f3050724ba9
+0x7f305174c619
+0x7f305179d5e3
+0x7f3051d012f1
+Raw
+------------
+/home/scitator/Programs/Anaconda2/envs/dato-env/lib/python2.7/site-packages/graphlab/libunity_shared.so(_Z18__print_back_tracev+0x8c) [0x7f3050f066dc]
+/home/scitator/Programs/Anaconda2/envs/dato-env/lib/python2.7/site-packages/graphlab/libunity_shared.so(+0x359ba9) [0x7f3050724ba9]
+/home/scitator/Programs/Anaconda2/envs/dato-env/lib/python2.7/site-packages/graphlab/libunity_shared.so(+0x1381619) [0x7f305174c619]
+/home/scitator/Programs/Anaconda2/envs/dato-env/lib/python2.7/site-packages/graphlab/libunity_shared.so(+0x13d25e3) [0x7f305179d5e3]
+/home/scitator/Programs/Anaconda2/envs/dato-env/lib/python2.7/site-packages/graphlab/libunity_shared.so(+0x19362f1) [0x7f3051d012f1]
+
+Demangled
+------------
+__print_back_trace()
+/home/scitator/Programs/Anaconda2/envs/dato-env/lib/python2.7/site-packages/graphlab/libunity_shared.so(+0x359ba9)
+/home/scitator/Programs/Anaconda2/envs/dato-env/lib/python2.7/site-packages/graphlab/libunity_shared.so(+0x1381619)
+/home/scitator/Programs/Anaconda2/envs/dato-env/lib/python2.7/site-packages/graphlab/libunity_shared.so(+0x13d25e3)
+/home/scitator/Programs/Anaconda2/envs/dato-env/lib/python2.7/site-packages/graphlab/libunity_shared.so(+0x19362f1)
+-------------------------------------------------------
+
+
+Pointers
+------------
+0x7f3050f066dc
+0x7f3050724ba9
+0x7f305174c619
+0x7f305179d5e3
+0x7f3051d012f1
+Raw
+------------
+/home/scitator/Programs/Anaconda2/envs/dato-env/lib/python2.7/site-packages/graphlab/libunity_shared.so(_Z18__print_back_tracev+0x8c) [0x7f3050f066dc]
+/home/scitator/Programs/Anaconda2/envs/dato-env/lib/python2.7/site-packages/graphlab/libunity_shared.so(+0x359ba9) [0x7f3050724ba9]
+/home/scitator/Programs/Anaconda2/envs/dato-env/lib/python2.7/site-packages/graphlab/libunity_shared.so(+0x1381619) [0x7f305174c619]
+/home/scitator/Programs/Anaconda2/envs/dato-env/lib/python2.7/site-packages/graphlab/libunity_shared.so(+0x13d25e3) [0x7f305179d5e3]
+/home/scitator/Programs/Anaconda2/envs/dato-env/lib/python2.7/site-packages/graphlab/libunity_shared.so(+0x19362f1) [0x7f3051d012f1]
+
+Demangled
+------------
+__print_back_trace()
+/home/scitator/Programs/Anaconda2/envs/dato-env/lib/python2.7/site-packages/graphlab/libunity_shared.so(+0x359ba9)
+/home/scitator/Programs/Anaconda2/envs/dato-env/lib/python2.7/site-packages/graphlab/libunity_shared.so(+0x1381619)
+/home/scitator/Programs/Anaconda2/envs/dato-env/lib/python2.7/site-packages/graphlab/libunity_shared.so(+0x13d25e3)
+/home/scitator/Programs/Anaconda2/envs/dato-env/lib/python2.7/site-packages/graphlab/libunity_shared.so(+0x19362f1)
+-------------------------------------------------------
+
+
+Pointers
+------------
+0x7f3050f066dc
+0x7f3050724ba9
+0x7f305174c619
+0x7f305179d5e3
+0x7f3051d012f1
+Raw
+------------
+/home/scitator/Programs/Anaconda2/envs/dato-env/lib/python2.7/site-packages/graphlab/libunity_shared.so(_Z18__print_back_tracev+0x8c) [0x7f3050f066dc]
+/home/scitator/Programs/Anaconda2/envs/dato-env/lib/python2.7/site-packages/graphlab/libunity_shared.so(+0x359ba9) [0x7f3050724ba9]
+/home/scitator/Programs/Anaconda2/envs/dato-env/lib/python2.7/site-packages/graphlab/libunity_shared.so(+0x1381619) [0x7f305174c619]
+/home/scitator/Programs/Anaconda2/envs/dato-env/lib/python2.7/site-packages/graphlab/libunity_shared.so(+0x13d25e3) [0x7f305179d5e3]
+/home/scitator/Programs/Anaconda2/envs/dato-env/lib/python2.7/site-packages/graphlab/libunity_shared.so(+0x19362f1) [0x7f3051d012f1]
+
+Demangled
+------------
+__print_back_trace()
+/home/scitator/Programs/Anaconda2/envs/dato-env/lib/python2.7/site-packages/graphlab/libunity_shared.so(+0x359ba9)
+/home/scitator/Programs/Anaconda2/envs/dato-env/lib/python2.7/site-packages/graphlab/libunity_shared.so(+0x1381619)
+/home/scitator/Programs/Anaconda2/envs/dato-env/lib/python2.7/site-packages/graphlab/libunity_shared.so(+0x13d25e3)
+/home/scitator/Programs/Anaconda2/envs/dato-env/lib/python2.7/site-packages/graphlab/libunity_shared.so(+0x19362f1)
+-------------------------------------------------------
+
+
+Pointers
+------------
+0x7f3050f066dc
+0x7f3050724ba9
+0x7f305174c619
+0x7f305179d5e3
+0x7f3051d012f1
+Raw
+------------
+/home/scitator/Programs/Anaconda2/envs/dato-env/lib/python2.7/site-packages/graphlab/libunity_shared.so(_Z18__print_back_tracev+0x8c) [0x7f3050f066dc]
+/home/scitator/Programs/Anaconda2/envs/dato-env/lib/python2.7/site-packages/graphlab/libunity_shared.so(+0x359ba9) [0x7f3050724ba9]
+/home/scitator/Programs/Anaconda2/envs/dato-env/lib/python2.7/site-packages/graphlab/libunity_shared.so(+0x1381619) [0x7f305174c619]
+/home/scitator/Programs/Anaconda2/envs/dato-env/lib/python2.7/site-packages/graphlab/libunity_shared.so(+0x13d25e3) [0x7f305179d5e3]
+/home/scitator/Programs/Anaconda2/envs/dato-env/lib/python2.7/site-packages/graphlab/libunity_shared.so(+0x19362f1) [0x7f3051d012f1]
+
+Demangled
+------------
+__print_back_trace()
+/home/scitator/Programs/Anaconda2/envs/dato-env/lib/python2.7/site-packages/graphlab/libunity_shared.so(+0x359ba9)
+/home/scitator/Programs/Anaconda2/envs/dato-env/lib/python2.7/site-packages/graphlab/libunity_shared.so(+0x1381619)
+/home/scitator/Programs/Anaconda2/envs/dato-env/lib/python2.7/site-packages/graphlab/libunity_shared.so(+0x13d25e3)
+/home/scitator/Programs/Anaconda2/envs/dato-env/lib/python2.7/site-packages/graphlab/libunity_shared.so(+0x19362f1)
+-------------------------------------------------------
+
+
+Pointers
+------------
+0x7f3050f066dc
+0x7f3050724ba9
+0x7f305174c619
+0x7f305179d5e3
+0x7f3051d012f1
+Raw
+------------
+/home/scitator/Programs/Anaconda2/envs/dato-env/lib/python2.7/site-packages/graphlab/libunity_shared.so(_Z18__print_back_tracev+0x8c) [0x7f3050f066dc]
+/home/scitator/Programs/Anaconda2/envs/dato-env/lib/python2.7/site-packages/graphlab/libunity_shared.so(+0x359ba9) [0x7f3050724ba9]
+/home/scitator/Programs/Anaconda2/envs/dato-env/lib/python2.7/site-packages/graphlab/libunity_shared.so(+0x1381619) [0x7f305174c619]
+/home/scitator/Programs/Anaconda2/envs/dato-env/lib/python2.7/site-packages/graphlab/libunity_shared.so(+0x13d25e3) [0x7f305179d5e3]
+/home/scitator/Programs/Anaconda2/envs/dato-env/lib/python2.7/site-packages/graphlab/libunity_shared.so(+0x19362f1) [0x7f3051d012f1]
+
+Demangled
+------------
+__print_back_trace()
+/home/scitator/Programs/Anaconda2/envs/dato-env/lib/python2.7/site-packages/graphlab/libunity_shared.so(+0x359ba9)
+/home/scitator/Programs/Anaconda2/envs/dato-env/lib/python2.7/site-packages/graphlab/libunity_shared.so(+0x1381619)
+/home/scitator/Programs/Anaconda2/envs/dato-env/lib/python2.7/site-packages/graphlab/libunity_shared.so(+0x13d25e3)
+/home/scitator/Programs/Anaconda2/envs/dato-env/lib/python2.7/site-packages/graphlab/libunity_shared.so(+0x19362f1)
+-------------------------------------------------------
+
+
+Pointers
+------------
+0x7f3050f066dc
+0x7f3050724ba9
+0x7f305174c619
+0x7f305179d5e3
+0x7f3051d012f1
+Raw
+------------
+/home/scitator/Programs/Anaconda2/envs/dato-env/lib/python2.7/site-packages/graphlab/libunity_shared.so(_Z18__print_back_tracev+0x8c) [0x7f3050f066dc]
+/home/scitator/Programs/Anaconda2/envs/dato-env/lib/python2.7/site-packages/graphlab/libunity_shared.so(+0x359ba9) [0x7f3050724ba9]
+/home/scitator/Programs/Anaconda2/envs/dato-env/lib/python2.7/site-packages/graphlab/libunity_shared.so(+0x1381619) [0x7f305174c619]
+/home/scitator/Programs/Anaconda2/envs/dato-env/lib/python2.7/site-packages/graphlab/libunity_shared.so(+0x13d25e3) [0x7f305179d5e3]
+/home/scitator/Programs/Anaconda2/envs/dato-env/lib/python2.7/site-packages/graphlab/libunity_shared.so(+0x19362f1) [0x7f3051d012f1]
+
+Demangled
+------------
+__print_back_trace()
+/home/scitator/Programs/Anaconda2/envs/dato-env/lib/python2.7/site-packages/graphlab/libunity_shared.so(+0x359ba9)
+/home/scitator/Programs/Anaconda2/envs/dato-env/lib/python2.7/site-packages/graphlab/libunity_shared.so(+0x1381619)
+/home/scitator/Programs/Anaconda2/envs/dato-env/lib/python2.7/site-packages/graphlab/libunity_shared.so(+0x13d25e3)
+/home/scitator/Programs/Anaconda2/envs/dato-env/lib/python2.7/site-packages/graphlab/libunity_shared.so(+0x19362f1)
+-------------------------------------------------------
+
+
